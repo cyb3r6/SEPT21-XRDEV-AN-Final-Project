@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: deb79c16ac8d91d48afa8fcc656cbee1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armrest_1_80
+    100002: Armrest_2_80
+    100004: Armrest_3_80
+    100006: Armrest_4_80
+    100008: Economy_back_1_80
+    100010: Economy_back_2_80
+    100012: Economy_back_3_80
+    100014: Economy_fix_2_81
+    100016: Economy_fix_3_81
+    100018: Economy_fix_80
+    100020: Economy_remote_2_81
+    100022: Economy_remote_3_81
+    100024: Economy_remote_80
+    100026: Economy_screen_1_80
+    100028: Economy_screen_2_80
+    100030: Economy_screen_3_80
+    100032: Economy_table_2_81
+    100034: Economy_table_3_81
+    100036: Economy_table_80
+    100038: Economy_table_lever_2_81
+    100040: Economy_table_lever_3_81
+    100042: Economy_table_lever_80
+    100044: //RootNode
+    400000: Armrest_1_80
+    400002: Armrest_2_80
+    400004: Armrest_3_80
+    400006: Armrest_4_80
+    400008: Economy_back_1_80
+    400010: Economy_back_2_80
+    400012: Economy_back_3_80
+    400014: Economy_fix_2_81
+    400016: Economy_fix_3_81
+    400018: Economy_fix_80
+    400020: Economy_remote_2_81
+    400022: Economy_remote_3_81
+    400024: Economy_remote_80
+    400026: Economy_screen_1_80
+    400028: Economy_screen_2_80
+    400030: Economy_screen_3_80
+    400032: Economy_table_2_81
+    400034: Economy_table_3_81
+    400036: Economy_table_80
+    400038: Economy_table_lever_2_81
+    400040: Economy_table_lever_3_81
+    400042: Economy_table_lever_80
+    400044: //RootNode
+    2100000: M_B777_Economy_seat
+    2100002: M_B777_ES_Screen_3
+    2100004: M_B777_ES_Screen_2
+    2100006: M_B777_ES_Screen_1
+    2300000: Armrest_1_80
+    2300002: Armrest_2_80
+    2300004: Armrest_3_80
+    2300006: Armrest_4_80
+    2300008: Economy_back_1_80
+    2300010: Economy_back_2_80
+    2300012: Economy_back_3_80
+    2300014: Economy_fix_2_81
+    2300016: Economy_fix_3_81
+    2300018: Economy_fix_80
+    2300020: Economy_remote_2_81
+    2300022: Economy_remote_3_81
+    2300024: Economy_remote_80
+    2300026: Economy_screen_1_80
+    2300028: Economy_screen_2_80
+    2300030: Economy_screen_3_80
+    2300032: Economy_table_2_81
+    2300034: Economy_table_3_81
+    2300036: Economy_table_80
+    2300038: Economy_table_lever_2_81
+    2300040: Economy_table_lever_3_81
+    2300042: Economy_table_lever_80
+    2300044: //RootNode
+    3300000: Armrest_1_80
+    3300002: Armrest_2_80
+    3300004: Armrest_3_80
+    3300006: Armrest_4_80
+    3300008: Economy_back_1_80
+    3300010: Economy_back_2_80
+    3300012: Economy_back_3_80
+    3300014: Economy_fix_2_81
+    3300016: Economy_fix_3_81
+    3300018: Economy_fix_80
+    3300020: Economy_remote_2_81
+    3300022: Economy_remote_3_81
+    3300024: Economy_remote_80
+    3300026: Economy_screen_1_80
+    3300028: Economy_screen_2_80
+    3300030: Economy_screen_3_80
+    3300032: Economy_table_2_81
+    3300034: Economy_table_3_81
+    3300036: Economy_table_80
+    3300038: Economy_table_lever_2_81
+    3300040: Economy_table_lever_3_81
+    3300042: Economy_table_lever_80
+    3300044: //RootNode
+    4300000: Economy_Seat
+    4300002: Armrest_1_80
+    4300004: Armrest_2_80
+    4300006: Armrest_3_80
+    4300008: Armrest_4_80
+    4300010: Economy_back_1_80
+    4300012: Economy_screen_3_80
+    4300014: Economy_remote_80
+    4300016: Economy_fix_80
+    4300018: Economy_table_lever_80
+    4300020: Economy_table_80
+    4300022: Economy_back_2_80
+    4300024: Economy_screen_2_80
+    4300026: Economy_remote_2_81
+    4300028: Economy_fix_2_81
+    4300030: Economy_table_lever_2_81
+    4300032: Economy_table_2_81
+    4300034: Economy_back_3_80
+    4300036: Economy_screen_1_80
+    4300038: Economy_remote_3_81
+    4300040: Economy_fix_3_81
+    4300042: Economy_table_lever_3_81
+    4300044: Economy_table_3_81
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_ES_Screen_1
+    second: {fileID: 2100000, guid: 6d86b8d195c8ad54a802ae2386a4d9cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_ES_Screen_2
+    second: {fileID: 2100000, guid: 0173e89d02f87a34497e7361d40e9e02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_ES_Screen_3
+    second: {fileID: 2100000, guid: bab06a50e976a43478f652b15c3e083a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Economy_seat
+    second: {fileID: 2100000, guid: 5fd89689a1ba254419a18669b8ad0a3b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
